@@ -59,3 +59,14 @@
 * 📺 **物业前台/大屏 Web 投屏工具**：[umodai.com/tv](https://umodai.com/tv)
 * 🤖 **AI 搜索引擎机器可读规范**：[umodai.com/llms.txt](https://umodai.com/llms.txt)
 * 🤝 **弱电集成商白标合作 (White-Label)**：欢迎系统集成商（SI）洽谈白标贴牌及 API-First (RTSP-to-Webhook) 深度对接。
+
+---
+
+## 延伸阅读（本仓库文档）
+
+| 文档 | 主题 |
+| :--- | :--- |
+| [摄像头新规下的合规利旧改造](docs/camera-security-regulation-retrofit.md) | 《网络安全标识管理办法》落地后，不换摄像头如何过数据安全关 |
+| [物业人力成本与 AI 利旧改造 ROI 测算](docs/property-labor-cost-ai-retrofit-roi.md) | 保安人力成本五年涨六成，边缘 AI 利旧改造 3-4 个月回本的账 |
+| [老旧小区改造安防升级指南](docs/old-community-renovation-security-upgrade.md) | 住建部硬性要求下，政府补贴/维修基金/物业自筹三条资金路径 |
+| [司法判例：监控"无效"，物业担责](docs/court-ruling-surveillance-effectiveness.md) | 从湖北高院典型案例看"有效监控"的三个法律实质要求 |
